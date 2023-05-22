@@ -1,0 +1,3 @@
+def revision():
+  print("Most of points are remembered")
+revision()
