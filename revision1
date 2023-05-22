@@ -1,3 +1,6 @@
 def revision():
   print("Most of points are remembered")
 revision()
+def new():
+  print("Some points are added")
+new()
