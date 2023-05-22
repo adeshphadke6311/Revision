@@ -4,3 +4,5 @@ revision()
 def new():
   print("Some points are added")
 new()
+def new():
+  print("New points are added from web")
