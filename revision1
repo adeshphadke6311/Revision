@@ -6,3 +6,4 @@ def new():
 new()
 def new():
   print("New points are added from web")
+print("I have made changes from the Pycharm")
